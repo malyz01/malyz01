@@ -43,6 +43,7 @@ stack:
 
  - refactor :hammer: RecipeApp  
  - refactor :hammer: pennyWise
+ - create :sparkles: a mobile app using React Native
  - create :sparkles: an app using ASP.net
  - create :sparkles: an app using Angular
  - create :sparkles: an app using Vue
