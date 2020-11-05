@@ -2,6 +2,8 @@
 
 <h3 > About myself </h3>
 
+I'm Matthew Philip Uy, an experienced full stack web developer.
+
 I love to code and have been doing so since I was young. I often see opportunities to create web apps when I hear people are unhappy about things they find difficult to do. I love creating web apps that are practical, solve problems and are useful.
 
 _I'm currently looking for a full time web developer job._
