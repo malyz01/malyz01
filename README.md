@@ -8,9 +8,9 @@ _I'm currently looking for a full time web developer job._
 
 <h3 > Github Stats </h3>
 
-[![Matt Uy's github stats](https://github-readme-stats.vercel.app/api?username=malyz01&show_icons=true&theme=merko&count_private=true)](https://github.com/malyz01/github-readme-stats)
+[![Matt Uy's github stats](https://github-readme-stats.vercel.app/api?username=malyz01&show_icons=true&theme=merko&count_private=true)](https://github.com/malyz01)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malyz01&langs_count=8&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malyz01&langs_count=8&layout=compact&theme=merko)](https://github.com/malyz01)
 
 <h3 > :zap: What I have been doing :zap: </h3>
 
