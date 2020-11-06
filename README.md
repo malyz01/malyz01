@@ -24,7 +24,7 @@ At the moment, I'm working on a private CRM website for a company.
 - Authentication using passport js
 - and much more...
 
-stack:
+stack used for above proj:
 <br />
 <img  alt="typescript" width="40px" src="https://res.cloudinary.com/malyz/image/upload/v1604544269/web%20tech%20images/typescript.png" />
 <img  alt="react" width="40px" src="https://res.cloudinary.com/malyz/image/upload/v1604544261/web%20tech%20images/react.png" />
