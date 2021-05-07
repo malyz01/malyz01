@@ -48,7 +48,7 @@ stack used for above proj:
  - create :sparkles: an app using Angular
  - create :sparkles: an app using Vue
  - learn and create :books: fullstack using gatsby for frontend and aws lambda to handle backend
- - learn :books: Python
+ - learn :books: Java
  - also looking for someone to suggest what to learn to coninuously improve my skills :rocket:
 
 ## :pencil: More about me please visit: [My Portfolio](https://portfolio.malyz.com/)
