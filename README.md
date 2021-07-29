@@ -16,13 +16,11 @@ _I'm currently looking for a full time web developer job._
 
 <h3 > :zap: What I have been doing :zap: </h3>
 
-At the moment, I'm working on a private CRM website for a company. 
-- Migrating data from excel files to use mongoDB
-- Creating calendar to pin schedule work
-- Using react-hook-form with material ui to create different forms for inputs
-- Using nodejs to generate a populated document
-- Authentication using passport js
-- and much more...
+At the moment, I'm working on a custom CRM website. 
+- Display realtime data.
+- Integration between Mobile (React native) and PWA (React & NodeJS).
+- Using digital ocean to host app.
+- Using supabase to manage database.
 
 stack used for above proj:
 <br />
@@ -32,22 +30,14 @@ stack used for above proj:
 <img  alt="babel" width="40px" src="https://res.cloudinary.com/malyz/image/upload/v1604544262/web%20tech%20images/babel.png" />
 <img  alt="nodejs" width="40px" src="https://res.cloudinary.com/malyz/image/upload/v1604544261/web%20tech%20images/node.png" />
 <img  alt="express" width="40px" src="https://res.cloudinary.com/malyz/image/upload/v1604544262/web%20tech%20images/express.png" />
-<img  alt="mongoDB" width="40px" src="https://res.cloudinary.com/malyz/image/upload/v1604544274/web%20tech%20images/mongodb.png" />
-<img  alt="material ui" width="40px" src="https://res.cloudinary.com/malyz/image/upload/v1604544261/web%20tech%20images/material.ui.png" />
 <img  alt="redux" width="40px" src="https://res.cloudinary.com/malyz/image/upload/v1604544261/web%20tech%20images/redux.png" />
 <img  alt="jest" width="40px" src="https://res.cloudinary.com/malyz/image/upload/v1604544262/web%20tech%20images/jest.png" />
-<img  alt="jwt" width="40px" src="https://res.cloudinary.com/malyz/image/upload/v1604544262/web%20tech%20images/jwt.png" />
-<img  alt="passport" width="40px" src="https://res.cloudinary.com/malyz/image/upload/v1604544261/web%20tech%20images/passport.png" />
 
 <h3 > :construction: Things to do :construction: </h3>
 
- - refactor :hammer: RecipeApp  
- - refactor :hammer: pennyWise
- - create :sparkles: a mobile app using React Native
  - create :sparkles: an app using ASP.net
  - create :sparkles: an app using Angular
  - create :sparkles: an app using Vue
- - learn and create :books: fullstack using gatsby for frontend and aws lambda to handle backend
  - learn :books: Java
  - also looking for someone to suggest what to learn to coninuously improve my skills :rocket:
 
