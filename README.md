@@ -38,7 +38,7 @@ stack used for above proj:
  - create :sparkles: an app using ASP.net
  - create :sparkles: an app using Angular
  - create :sparkles: an app using Vue
- - learn :books: Java
+ - learn :books: Python
  - also looking for someone to suggest what to learn to coninuously improve my skills :rocket:
 
 ## :pencil: More about me please visit: [My Portfolio](https://portfolio.malyz.com/)
