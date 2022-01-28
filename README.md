@@ -35,9 +35,6 @@ stack used for above proj:
 
 <h3 > :construction: Things to do :construction: </h3>
 
- - create :sparkles: an app using ASP.net
- - create :sparkles: an app using Angular
- - create :sparkles: an app using Vue
  - learn :books: Python
  - also looking for someone to suggest what to learn to coninuously improve my skills :rocket:
 
