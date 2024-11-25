@@ -35,7 +35,7 @@ stack used for above proj:
 
 <h3 > :construction: Things to do :construction: </h3>
 
- - learn :books: Python
+ - learn :books: Python, Ruby and Rails
  - also looking for someone to suggest what to learn to coninuously improve my skills :rocket:
 
 ## :pencil: More about me please visit: [My Portfolio](https://portfolio.malyz.com/)
